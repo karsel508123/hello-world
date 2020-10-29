@@ -9,5 +9,7 @@ This is Karma. I am interested to learn about github.  I would like to learn fol
 3. Make changes to a file and push them to GitHub as commits
 4. Open and merge a pull request
 
+I hope i will be able to learn within 3 minutes
+
 Thanks
-Karsel
+Karma
